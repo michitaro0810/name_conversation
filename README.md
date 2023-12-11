@@ -11,7 +11,7 @@ https://qiita.com/genzouw/items/35022fa96c120e67c637
 |全体|・日本語は使わない<br>・省略を使わない|
 |クラス名|アッパーキャメルケース|
 |メソッド名|・ローワーキャメルケース<br>・必ず動詞から始める|
-|変数名|・ローワーキャメルケース<br>・Boolean<br>is, has, 3単現動詞から始める<br>・date<br>????edOn<br>・datetime<br>????edAt<br>※????は動詞|
+|フィールド名|・ローワーキャメルケース<br>・Boolean<br>is, has, 3単現動詞から始める<br>・date<br>????edOn<br>・datetime<br>????edAt<br>※????は動詞|
 
 ## データベース図の場合の命名規則
 |識別子|規則|
